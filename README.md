@@ -8,5 +8,6 @@ set, the option is typically to tell the customer the question isn’t valid or 
 But in this project we build a chatbot in such a way that it answers all the queries related to the functioning of the system. 
 It does that by using the Watson Discovery Service,which has been pre-loaded with the device’s owners manual.
 
-YouTube Link : https://youtu.be/3Sd4qcI7dx4
+YouTube Link : https://youtu.be/3Sd4qcI7dx4 
 Node red flow : https://internship1.eu-gb.mybluemix.net/red/#flow/7fef33dd.08ecbc 
+Feedback Link : https://youtu.be/zYaFavg0c5M
